@@ -1,0 +1,7 @@
+name: BedWars1058-EnderMan
+version: '${project.version}'
+main: cc.pixeleast.enderman.EnderMan
+softdepend: [BedWars-1058]
+authors: [Ican-291]
+description: Manage anything in the game in BedWars1058
+website: https://github.com/Ican-291/
